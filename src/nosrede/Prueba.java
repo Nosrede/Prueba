@@ -12,6 +12,7 @@ package nosrede;
 public class Prueba {
 
     String nombre="";
+    String dni="";
     /**
      * @param args the command line arguments
      */
